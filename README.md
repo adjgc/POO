@@ -14,6 +14,20 @@ El objetivo es construir una base sólida para el desarrollo de aplicaciones esc
 
 ---
 
+## 📖 Contenido
+
+* **Clases:** Modelado de clases en POO.
+* **Herencia:** Modelado de relaciones jerarquicas entre clases.
+* **Polimorfismo:** 
+* **Encapsulamiento:** 
+* **Abstracción:** 
+* **Excepciones:** 
+* **Colecciones:** 
+* **Threads:** 
+* **Siguientes pasos:** 
+
+---
+
 ## 🏛️ Los 4 Pilares de la POO
 En este repositorio encontrarás implementaciones detalladas de:
 
@@ -24,9 +38,9 @@ En este repositorio encontrarás implementaciones detalladas de:
 
 ---
 
-## 📂 Ejercicios y Prácticas
+## ⚒️ Ejercicios y Prácticas
 
-### 1. Modelado y diseño de clases en POO (Clases_001)
+### 1. Modelado y diseño de clases en POO (`📂 conceptosbasicos`)
 Explicación de los componentes mínimos necesarios para la creación de una clase.
 
 #### ✅ Actividades
@@ -35,6 +49,14 @@ Explicación de los componentes mínimos necesarios para la creación de una cla
 - [ ] Implementar los métodos `Getters` y `Setters`.
 
 ---
+
+### 2. Herencia entre clases (`📂 herencia`)
+Explicación de herencia, relaciones jerarquicas y palabras reservadas `extends` y `super`.
+
+#### ✅ Actividades
+- [x] Deinifir los atributos de una Persona, Trabajador, Academico, Administrativo, en el entorno de la UAM.
+- [ ] Crear las relaciones jerarquicas: Persona -> Trabajador -> Academico/Administrativo
+- [ ] Jugar con las nuevas relaciones creadas y observar el comportamiento de las clases.
 
 ## 🚀 Próximamente...
 
