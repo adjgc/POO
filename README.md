@@ -18,9 +18,9 @@ El objetivo es construir una base sólida para el desarrollo de aplicaciones esc
 
 * **Clases:** Modelado de clases en POO.
 * **Herencia:** Modelado de relaciones jerarquicas entre clases.
-* **Polimorfismo:** Capacidad de mostrar o tomar multiples formas de las clases.
+* **Polimorfismo:** Modelado y relación de clases jerarquicas con diferentes comportamientos.
 * **Encapsulamiento:** 
-* **Abstracción:** 
+* **Abstracción:** Modelado y relación de métodos que implementan diferentes comportamientos.
 * **Excepciones:** 
 * **Colecciones:** 
 * **Threads:** 
@@ -55,7 +55,7 @@ Explicación de herencia, relaciones jerarquicas y palabras reservadas `extends`
 
 #### ✅ Actividades
 - [x] Deinifir los atributos de una Persona, Trabajador, Academico, Administrativo, en el entorno de la UAM.
-- [ ] Crear las relaciones jerarquicas: Persona -> Trabajador -> Academico/Administrativo
+- [ ] Crear las relaciones jerarquicas: Persona -> Trabajador -> Academico/Administrativo.
 - [ ] Jugar con las nuevas relaciones creadas y observar el comportamiento de las clases.
 
 ### 3. Polimorfismo (`📂 polimorfismo`)
@@ -63,10 +63,16 @@ Ejemplificación del polimorfismo.
 
 #### ✅ Actividades
 - [x] Deinifir los atributos de una Persona, Trabajador, Academico, Administrativo, en el entorno de la UAM.
-- [x] Crear las relaciones jerarquicas: Persona -> Trabajador -> Academico/Administrativo
-- [ ] Crear un vector de personas (longitud 5)
-- [ ] Instanciar diferentes tipos de personas sobre el vector
-- [ ] Instanciar una cadena en el ultimo espacio del vector
+- [x] Crear las relaciones jerarquicas: Persona -> Trabajador -> Academico/Administrativo.
+- [ ] Crear un vector de personas (longitud 5).
+- [ ] Instanciar diferentes tipos de personas sobre el vector.
+- [ ] Instanciar una cadena en el ultimo espacio del vector.
+
+### 4. Clases abstractas (`📂 clasesabstractas`)
+#### ✅ Actividades
+- [x] Definir una clase abstracta Figura con un método abstracto para calcular el área de la figura.
+- [ ] Crear 2 figuras geométricas distintas que hereden e implementen los métodos abstractos de Figura.
+- [ ] Instanciar y observar el comportamiento de la implementación del método abstracto.
 
 ## 🚀 Próximamente...
 
