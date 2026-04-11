@@ -18,7 +18,7 @@ El objetivo es construir una base sólida para el desarrollo de aplicaciones esc
 
 * **Clases:** Modelado de clases en POO.
 * **Herencia:** Modelado de relaciones jerarquicas entre clases.
-* **Polimorfismo:** 
+* **Polimorfismo:** Capacidad de mostrar o tomar multiples formas de las clases.
 * **Encapsulamiento:** 
 * **Abstracción:** 
 * **Excepciones:** 
@@ -57,6 +57,16 @@ Explicación de herencia, relaciones jerarquicas y palabras reservadas `extends`
 - [x] Deinifir los atributos de una Persona, Trabajador, Academico, Administrativo, en el entorno de la UAM.
 - [ ] Crear las relaciones jerarquicas: Persona -> Trabajador -> Academico/Administrativo
 - [ ] Jugar con las nuevas relaciones creadas y observar el comportamiento de las clases.
+
+### 3. Polimorfismo (`📂 polimorfismo`)
+Ejemplificación del polimorfismo.
+
+#### ✅ Actividades
+- [x] Deinifir los atributos de una Persona, Trabajador, Academico, Administrativo, en el entorno de la UAM.
+- [x] Crear las relaciones jerarquicas: Persona -> Trabajador -> Academico/Administrativo
+- [ ] Crear un vector de personas (longitud 5)
+- [ ] Instanciar diferentes tipos de personas sobre el vector
+- [ ] Instanciar una cadena en el ultimo espacio del vector
 
 ## 🚀 Próximamente...
 
