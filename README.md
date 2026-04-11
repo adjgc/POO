@@ -83,6 +83,14 @@ Uso de palabra reservada `@override` para la sobre-escritura de métodos.
 - [x] Crear una clase Gato y una clase Perro que hereden de Animal e implementen sus métodos abstractos.
 - [ ] Instanciar y observar el compartamiento de estas nuevas clases.
 
+### 6. Sobrecarga de métodos (`📂 sobrecarga`)
+Implementación de múltiples métodos con el mismo nombre, pero variando la cantidad y/o tipo de dato de los parámetros que recibe.
+
+#### ✅ Actividades
+- [x] Definir una clase Animal, con al menos 3 métodos sobrecargados.
+- [x] Realizar diferentes implementaciones del mismo método.
+- [ ] Instanciar y observar el compartamiento de la sobrecarga.
+
 ## 🚀 Próximamente...
 
 > [!NOTE]
