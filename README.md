@@ -91,6 +91,13 @@ Implementación de múltiples métodos con el mismo nombre, pero variando la can
 - [x] Realizar diferentes implementaciones del mismo método.
 - [ ] Instanciar y observar el compartamiento de la sobrecarga.
 
+### 7. Encapsulamiento (`📂 encapsulamiento`)
+Definir diferentes niveles de acceso para atributos y métodos de una clase.
+
+#### ✅ Actividades
+- [x] Definir una clase Alumno con todos sus atributos privados.
+- [ ] Jugar con los modificadores de acceso de los metodos de Alumno
+
 ## 🚀 Próximamente...
 
 > [!NOTE]
