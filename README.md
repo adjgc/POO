@@ -69,10 +69,19 @@ Ejemplificación del polimorfismo.
 - [ ] Instanciar una cadena en el ultimo espacio del vector.
 
 ### 4. Clases abstractas (`📂 clasesabstractas`)
+
 #### ✅ Actividades
 - [x] Definir una clase abstracta Figura con un método abstracto para calcular el área de la figura.
 - [ ] Crear 2 figuras geométricas distintas que hereden e implementen los métodos abstractos de Figura.
 - [ ] Instanciar y observar el comportamiento de la implementación del método abstracto.
+
+### 5. Sobre-escritura de métodos (`📂 sobreescritura`)
+Uso de palabra reservada `@override` para la sobre-escritura de métodos.
+
+#### ✅ Actividades
+- [x] Definir una clase abstracta de Animal, con al menos un método abstracto.
+- [x] Crear una clase Gato y una clase Perro que hereden de Animal e implementen sus métodos abstractos.
+- [ ] Instanciar y observar el compartamiento de estas nuevas clases.
 
 ## 🚀 Próximamente...
 
