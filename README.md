@@ -96,7 +96,15 @@ Definir diferentes niveles de acceso para atributos y métodos de una clase.
 
 #### ✅ Actividades
 - [x] Definir una clase Alumno con todos sus atributos privados.
-- [ ] Jugar con los modificadores de acceso de los metodos de Alumno
+- [ ] Jugar con los modificadores de acceso de los metodos de Alumno.
+
+### 8. Interfaces (`📂 interfaces`)
+Modelar el comportamiento de diferentes formas geométricas.
+
+#### ✅ Actividades
+- [x] Modelar comportamientos independientes de figuras geométricas.
+- [ ] Implementar los comportamientos particulas de un Círculo y un Cuadrado.
+- [ ] Observar el comportamiento y comprar con el uso de clases abstractas.
 
 ## 🚀 Próximamente...
 
