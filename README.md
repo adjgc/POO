@@ -40,7 +40,7 @@ En este repositorio encontrarás implementaciones detalladas de:
 
 ## ⚒️ Ejercicios y Prácticas
 
-### 1. Modelado y diseño de clases en POO (`📂 conceptosbasicos`)
+### 1. Modelado y diseño de clases en POO (`📂 src/clases/conceptosbasicos`)
 Explicación de los componentes mínimos necesarios para la creación de una clase.
 
 #### ✅ Actividades
@@ -50,7 +50,7 @@ Explicación de los componentes mínimos necesarios para la creación de una cla
 
 ---
 
-### 2. Herencia entre clases (`📂 herencia`)
+### 2. Herencia entre clases (`📂 src/clases/herencia`)
 Explicación de herencia, relaciones jerarquicas y palabras reservadas `extends` y `super`.
 
 #### ✅ Actividades
@@ -58,7 +58,7 @@ Explicación de herencia, relaciones jerarquicas y palabras reservadas `extends`
 - [ ] Crear las relaciones jerarquicas: Persona -> Trabajador -> Academico/Administrativo.
 - [ ] Jugar con las nuevas relaciones creadas y observar el comportamiento de las clases.
 
-### 3. Polimorfismo (`📂 polimorfismo`)
+### 3. Polimorfismo (`📂 src/clases/polimorfismo`)
 Ejemplificación del polimorfismo.
 
 #### ✅ Actividades
@@ -68,14 +68,14 @@ Ejemplificación del polimorfismo.
 - [ ] Instanciar diferentes tipos de personas sobre el vector.
 - [ ] Instanciar una cadena en el ultimo espacio del vector.
 
-### 4. Clases abstractas (`📂 clasesabstractas`)
+### 4. Clases abstractas (`📂 src/clases/clasesabstractas`)
 
 #### ✅ Actividades
 - [x] Definir una clase abstracta Figura con un método abstracto para calcular el área de la figura.
 - [ ] Crear 2 figuras geométricas distintas que hereden e implementen los métodos abstractos de Figura.
 - [ ] Instanciar y observar el comportamiento de la implementación del método abstracto.
 
-### 5. Sobre-escritura de métodos (`📂 sobreescritura`)
+### 5. Sobre-escritura de métodos (`📂 src/clases/sobreescritura`)
 Uso de palabra reservada `@override` para la sobre-escritura de métodos.
 
 #### ✅ Actividades
@@ -83,7 +83,7 @@ Uso de palabra reservada `@override` para la sobre-escritura de métodos.
 - [x] Crear una clase Gato y una clase Perro que hereden de Animal e implementen sus métodos abstractos.
 - [ ] Instanciar y observar el compartamiento de estas nuevas clases.
 
-### 6. Sobrecarga de métodos (`📂 sobrecarga`)
+### 6. Sobrecarga de métodos (`📂 src/clases/sobrecarga`)
 Implementación de múltiples métodos con el mismo nombre, pero variando la cantidad y/o tipo de dato de los parámetros que recibe.
 
 #### ✅ Actividades
@@ -91,20 +91,31 @@ Implementación de múltiples métodos con el mismo nombre, pero variando la can
 - [x] Realizar diferentes implementaciones del mismo método.
 - [ ] Instanciar y observar el compartamiento de la sobrecarga.
 
-### 7. Encapsulamiento (`📂 encapsulamiento`)
+### 7. Encapsulamiento (`📂 src/clases/encapsulamiento`)
 Definir diferentes niveles de acceso para atributos y métodos de una clase.
 
 #### ✅ Actividades
 - [x] Definir una clase Alumno con todos sus atributos privados.
 - [ ] Jugar con los modificadores de acceso de los metodos de Alumno.
 
-### 8. Interfaces (`📂 interfaces`)
+### 8. Interfaces (`📂 src/clases/interfaces`)
 Modelar el comportamiento de diferentes formas geométricas.
 
 #### ✅ Actividades
 - [x] Modelar comportamientos independientes de figuras geométricas.
 - [ ] Implementar los comportamientos particulas de un Círculo y un Cuadrado.
 - [ ] Observar el comportamiento y comprar con el uso de clases abstractas.
+
+### 9. Ejercicio integrador: Pókemon ⚪⚡🔴 (`📂 src/ejercicios/pokemon`)
+Modelar el comportamiento de diferentes formas geométricas.
+
+#### ✅ Actividades
+- [x] Definir los atributos y ataques generales de un Pókemon.
+- [x] Definir al menos 3 ataques de pokemones tipo: Agua, Electrico, Fuego, Planta.
+- [ ] Implementar los atauqes particulares y especiales (de acuerdo al tipo) para un pokemon de cada tipo definido en el punto anterior.
+- [ ] Implementar una clase principal donde se observen los comportamientos de cada pokemon creado.
+- [ ] Se sugieren los pokemons Squirtle, Pikachu, Charmander, Bulbasaur y descripciones de ataques como `Pikachu ha usado: Placaje`
+- [ ] **Plus: Definir una organización de directorios para mayor entendimiento de la solución.**
 
 ## 🚀 Próximamente...
 
