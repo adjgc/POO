@@ -135,6 +135,12 @@ Demuestra los tipos de relaciones (1 a 1, 1 a N, N a N) entre clases como se har
 - [ ] Instanciar un objeto de la clase Auto y agregar todos sus atributos, incluir al menos 2 propietarios.
 - [ ] Jugar con el objeto creado, modificar, borrar, recorrer, etc.
 
+### 12. Manejo de excepciones (`📂 src/clases/excepciones`)
+Ejemplifica el manejo de excepciones en Java, bloques `try, catch, finally`.
+
+#### ✅ Actividades
+- [ ] Provocar diferentes excepciones en Java e implementar su correcto manejo.
+
 ## 🚀 Próximamente...
 
 > [!NOTE]
