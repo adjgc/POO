@@ -127,6 +127,14 @@ Mostrar los tipos de colecciones más empleados en POO, sus diferencias y casos 
 - [ ] Declarar un Stack de personas y jugar con sus métodos (agregar, modificar, obtener, borrar).
 - [ ] Declarar un HashMap de personas y jugar con sus métodos (agregar, modificar, obtener).
 
+### 11. Relaciones entre clases (`📂 src/clases/relaciones`)
+Demuestra los tipos de relaciones (1 a 1, 1 a N, N a N) entre clases como se haría en bases de datos.
+
+#### ✅ Actividades
+- [x] Definir clase Propietario y clase Auto con una relación 1 a N, **un Auto puede tener mucho propietarios**.
+- [ ] Instanciar un objeto de la clase Auto y agregar todos sus atributos, incluir al menos 2 propietarios.
+- [ ] Jugar con el objeto creado, modificar, borrar, recorrer, etc.
+
 ## 🚀 Próximamente...
 
 > [!NOTE]
