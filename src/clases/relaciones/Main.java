@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    static void main() {
-
+    public static void main(String[] args) {
         Auto auto = new Auto();
         auto.setIdAuto(1);
         auto.setMarca("Ford");
@@ -21,6 +20,5 @@ public class Main {
 
         System.out.println("La " + auto.getModelo() + " marca " + auto.getMarca() + " tiene a los siguientes propietarios: ");
         System.out.println(auto.getPropietarios().toString());
-
     }
 }

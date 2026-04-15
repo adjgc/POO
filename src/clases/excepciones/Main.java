@@ -1,7 +1,7 @@
 package clases.excepciones;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         try {
             int resultado = 3/0;
         }catch (Exception e){
@@ -14,6 +14,5 @@ public class Main {
         }catch (Exception e){
             System.out.println("No se puede acceder a un indice mayor al tamaño de la lista");
         }
-
     }
 }

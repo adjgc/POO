@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         //Declaracion
         Map<Integer, String> mapaEmpleados = new HashMap<>();
 
