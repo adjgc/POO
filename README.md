@@ -168,6 +168,14 @@ Uso de enum como clase de contenido **constantes**.
 - [x] Crear un enum de algunos colores constantes.
 - [ ] Revisar las diferentes funciones que posee enum.
 
+### 16. Generic (`📂 src/clases/generics`)
+Creación de clases con tipos de datos genéricos.
+
+#### ✅ Actividades
+- [x] Modelar una clase que pueda recibir en sus atributos un elemento de cualquier tipo de dato.
+- [ ] Instanciar al menos 2 objetos de la clase genérica creada.
+- [ ] Asignar y recuperar diferentes tipos de datos sobre el atributo de la clase genérica.
+
 ## 🚀 Próximamente...
 
 > [!NOTE]
@@ -179,8 +187,7 @@ Uso de enum como clase de contenido **constantes**.
 * **Coleciones:** Tipos de datos especiales como listas y conjuntos.
 * **HashMap:** Mapeo de objetos con HashMap.
 * **Enum:** Definición de colecciones de constantes.
-* **Threads:** Pramación en paralelo.
-* **JPA, ORM, CRUD y más...**
+* **Threads:** Programación concurrente.
 
 ---
 
