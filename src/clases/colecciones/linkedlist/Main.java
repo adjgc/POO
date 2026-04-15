@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         //Declaracion
         List<Persona> listaPersonas = new LinkedList<>();
 
@@ -62,6 +62,5 @@ public class Main {
 
         //Comprobar si la lista es vacia
         System.out.println("¿La lista es vacia?: " + listaPersonas.isEmpty());
-
     }
 }

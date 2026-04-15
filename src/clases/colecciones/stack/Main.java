@@ -5,7 +5,7 @@ import clases.colecciones.vo.Persona;
 import java.util.Stack;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         Stack<Persona> pilaPersonas = new Stack<>();
 
         System.out.println("Elementos de la pila: " + pilaPersonas);
