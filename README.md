@@ -151,6 +151,16 @@ Desarrollar un ejercicio para repasar de manera conjunta lo visto en este curso 
 - [ ] Agregar nuevos juegos a la coleccion.
 - [ ] De los videojuegos en la lista, mostrar solamente los que sean para Nintendo 64.
 
+### 14. Conversiones o Cast (`📂 src/clases/cast`)
+Demostrar las formas posibles de convertir entre tipos de datos.
+
+#### ✅ Actividades
+- [x] Declarar variables de tipo de dato primitivo (int, double, long, etc).
+- [ ] Convertir de double a int y mostrar el resultado.
+- [ ] Convertir de double a long y mostrar el resultado.
+- [ ] Declarar vairbales de tipo de dato compuesto/objeto (String, Integer, Double).
+- [ ] Realizar conversiones entre estos tipos de datos bajo sus métodos de clase.
+
 ## 🚀 Próximamente...
 
 > [!NOTE]
