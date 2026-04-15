@@ -141,6 +141,16 @@ Ejemplifica el manejo de excepciones en Java, bloques `try, catch, finally`.
 #### ✅ Actividades
 - [ ] Provocar diferentes excepciones en Java e implementar su correcto manejo.
 
+### 13. Ejercicio integrador: Videojuegos 🎮🌟🕹️ (`📂 src/ejercicios/videojuegos`)
+Desarrollar un ejercicio para repasar de manera conjunta lo visto en este curso hasta este momento.
+
+#### ✅ Actividades
+- [x] Crear una lista de al menos 5 videojuegos de diferentes consolas.
+- [ ] Para cada videojuego, mostrar en pantalla el nombre y la cantidad de jugadores que soporta.
+- [ ] Cambiar los datos de 2 videojuegos y mostrar los datos de toda la coleccion.
+- [ ] Agregar nuevos juegos a la coleccion.
+- [ ] De los videojuegos en la lista, mostrar solamente los que sean para Nintendo 64.
+
 ## 🚀 Próximamente...
 
 > [!NOTE]
