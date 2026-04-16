@@ -176,6 +176,15 @@ Creación de clases con tipos de datos genéricos.
 - [ ] Instanciar al menos 2 objetos de la clase genérica creada.
 - [ ] Asignar y recuperar diferentes tipos de datos sobre el atributo de la clase genérica.
 
+### 17. Ejercicio integrador: Flora 🌻🌲☘️ (`📂 src/ejercicios/flora`)
+Desarrollo de ejercicio integrando temas vistos en este curso.
+
+#### ✅ Actividades
+- [x] Modelar una clase Planta con sus atributos, constructores y métodos básicos.
+- [ ] Crear las siguientes clases hijas de Planta: Árbol, Flor, Arbusto.
+- [ ] Definir un método para cada clase hija del mismo nombre con implementación diferente.
+- [ ] Dentro de la clase principal, jugar con los modificadores de acceso.
+
 ## 🚀 Próximamente...
 
 > [!NOTE]
