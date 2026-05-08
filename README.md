@@ -38,7 +38,7 @@ En este repositorio encontrarás implementaciones detalladas de:
 
 ---
 
-## ⚒️ Curso Introductorio a la Programación Orientada a Objetos (`📂 CursoIntroductorioPOO/`)
+## ⚒️ Ejercicios y Prácticas
 
 ### 1. Modelado y diseño de clases en POO (`📂 src/clases/conceptosbasicos`)
 Explicación de los componentes mínimos necesarios para la creación de una clase.
@@ -227,8 +227,18 @@ Explicación de programación concurrente con hilos.
 
 ---
 
+## 🚀 Próximamente...
+
 > [!NOTE]
-> Este repositorio está en constante actualización, se estarán agregando ejercicios prácticos que se relacionan con el [Curso de JPA con EclipseLink](https://github.com/adjgc/Curso_JPA_EclipseLink)
+> A medida que avance en el curso, estaré integrando temas avanzados como:
+
+* **Clases Abstractas vs Interfaces:** Cuándo y por qué usar cada una.
+* **Relaciones entre Clases:** Asociación, Agregación y Composición.
+* **Manejo de Excepciones:** Manejo de errores en un flujo de trabajo.
+* **Coleciones:** Estructuras de datos especiales como listas y conjuntos.
+* **HashMap:** Mapeo de objetos con HashMap (JSON).
+* **Enum:** Definición de colecciones de constantes.
+* **Threads:** Programación concurrente.
 
 ---
 
