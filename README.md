@@ -38,7 +38,7 @@ En este repositorio encontrarás implementaciones detalladas de:
 
 ---
 
-## ⚒️ Curso Introductorio a la Programación Orientada a Objetos (`📂 CursoIntroductorioPOO/`)
+## ⚒️ Curso Introductorio a la Programación Orientada a Objetos (`📂 CursoIntroduccionPOO/`)
 
 ### 1. Modelado y diseño de clases en POO (`📂 src/clases/conceptosbasicos`)
 Explicación de los componentes mínimos necesarios para la creación de una clase.
@@ -227,8 +227,19 @@ Explicación de programación concurrente con hilos.
 
 ---
 
+## Proyecto integrador: Peluquería Canina
+Una peluquería canina local, necesita un formulario para dar almacenar los datos de sus clientes y dar seguimiento a sus citas.
+
+#### ✅ Actividades
+- [ ] Realizar el registro de los clientes (Mascotas).
+- [ ] Realizar el registro de los dueños de las mascotas.
+- [ ] Maquetar la solución en una interfaz de usuario.
+
+---
+
 > [!NOTE]
-> Este repositorio está en constante actualización, se estarán agregando ejercicios prácticos que se relacionan con el [Curso de JPA con EclipseLink](https://github.com/adjgc/Curso_JPA_EclipseLink)
+> Este repositorio está en constante actualización, se estarán agregando
+> proyectos integradores, se relacionan con el curso: [Curso_JPA_EclipseLink](https://github.com/adjgc/Curso_JPA_EclipseLink)
 
 ---
 
