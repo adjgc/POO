@@ -1,29 +1,37 @@
-### --- JetBrains (IntelliJ, DataGrip, etc.) ---
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+.kotlin
+out/
+
+### IntelliJ IDEA ###
 .idea/
 *.iws
 *.iml
 *.ipr
-out/
-gen/
 
-### --- Visual Studio Code ---
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
 .vscode/
-*.code-workspace
-.history/
 
-### --- Sistema Operativo ---
+### Mac OS ###
 .DS_Store
-Thumbs.db
-*~
-*.swp
-*.lock
-# Archivos temporales de compilación o paquetes
-*.pkg.tar.zst
-*.src.tar.gz
-pkg/
-src/
-
-### --- Base de Datos & SQL ---
-# Ignorar logs de consola de DataGrip o archivos temporales de queries
-*.sql.bak
-*.tmp.sql
